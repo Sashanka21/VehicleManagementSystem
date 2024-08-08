@@ -9,4 +9,4 @@ IOCL VSS is a MERN application. It has three main components
 the IOCL tracking system and can track the location of all the registered vehicles
 2. Driver App: The driver just need to install the app and get credentials provided by the
 Admin.
-3. Backend : The backend server is implemented using Node Js ,Express and MongoDB
+3. Backend : The backend server is implemented using Node Js ,Express and MongoDB.
